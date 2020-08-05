@@ -14,7 +14,7 @@ API builded during NLW#2 promoted by @Rocketseat for the [Proffy](https://github
 
 First clone this repository.
 
-Then install the dependencies
+Then install the dependencies.
 
 ```bash
 yarn install
@@ -29,7 +29,8 @@ npm install
 # Proffy API
 
 ## Sobre <a name = "sobre"></a>
-API constuida durante a NLW#2 promivida por @Rocketseat para o projeto [Proffy](https://github.com/ItaloCosta99/Proffy), o objetivo é criar, listar e pesquisar os cadastros.
+
+API constuida durante a NLW#2 promovida por @Rocketseat para o projeto [Proffy](https://github.com/ItaloCosta99/Proffy), o objetivo é criar, listar e pesquisar os cadastros.
 
 
 ### Pré-requisitos
@@ -48,7 +49,7 @@ Então instale as dependências.
 yarn install
 ```
 
-or
+ou
 
 ```bash
 npm install
