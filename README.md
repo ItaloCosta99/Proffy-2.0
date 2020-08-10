@@ -5,7 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Goals](#goals)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](./CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
@@ -94,3 +94,6 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 ## Version 2.0
 
 Achieve the 2.0 version, .fig files for visualization on [Figma](figma.com) available at the .github folder, just download and import on the website.
+
+
+This project is under the [MIT license](./LICENSE).
