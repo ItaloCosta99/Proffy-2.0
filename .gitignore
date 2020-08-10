@@ -1,0 +1,6 @@
+server/node_modules/npm-normalize-package-bin/.gitignore
+server/node_modules/npm-normalize-package-bin/index.js
+server/node_modules/npm-normalize-package-bin/LICENSE
+server/node_modules/npm-normalize-package-bin/package-lock.json
+server/node_modules/npm-normalize-package-bin/package.json
+server/node_modules/npm-normalize-package-bin/README.md
