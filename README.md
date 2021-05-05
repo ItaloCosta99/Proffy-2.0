@@ -17,7 +17,7 @@ Install the [Prerequesites](#prerequesites) then
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone git@github.com:ItaloCosta99/Proffy-2.0.git
 ```
 
 
